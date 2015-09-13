@@ -1,4 +1,4 @@
-package euler003
+package main
 
 import "fmt"
 import "math"
